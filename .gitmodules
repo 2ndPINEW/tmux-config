@@ -1,0 +1,3 @@
+[submodule "tabicon-theme"]
+	path = tabicon-theme
+	url = git@github.com:2ndPINEW/tmux-tabicon-theme.git
